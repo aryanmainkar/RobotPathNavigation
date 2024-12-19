@@ -1,10 +1,10 @@
-Robot Navigation and Calibration Project
+# Robot Navigation and Calibration Project
 
-Overview
+# Overview
 
 This project focuses on the development of a compact robot equipped with advanced navigation and calibration strategies. The robot employs the A* algorithm for pathfinding and precise control methods for movement and turning.
 
-1. Design Choices
+# 1. Design Choices
 
 Robot Design
 
@@ -18,11 +18,11 @@ Illustrations
 
 Include a picture of the robot here to showcase the design.
 
-2. Navigation Strategy
+# 2. Navigation Strategy
 
 The robot’s navigation strategy leverages the A* algorithm, a robust pathfinding technique.
 
-A* Algorithm Details:
+# A* Algorithm Details:
 
 Key Features:
 
@@ -44,7 +44,7 @@ plot_environment: Visualizes the grid, obstacles, and computed path.
 
 Visualization: Example path generation is illustrated using Python's matplotlib library.
 
-3. Calibration Strategy
+# 3. Calibration Strategy
 
 Wheel Calibration
 
